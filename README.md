@@ -16,7 +16,6 @@ I am a data and ML engineer with a unique trajectory spanning physical systems (
 * **Security & Compliance:** Secure pipeline architecture, informed by formal cybersecurity training.
 
 ### 📈 Featured Architecture Portfolios
-*(Replace the '#' with the links to the repositories you create)*
 * 🔗 [Advanced Agentic Workflows & RL Models]
 * 🔗 [Real-Time Streaming Data Pipelines]
 * 🔗 [Silicon Yield Optimization & Defect Detection]
